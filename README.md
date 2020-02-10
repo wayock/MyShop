@@ -1,2 +1,2 @@
 # MyShop
-My Shope Commerce Demo
+My Shop Commerce Demo
